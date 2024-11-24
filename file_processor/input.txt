@@ -1,0 +1,2 @@
+This is a sample input file.
+Read this content and process it.
